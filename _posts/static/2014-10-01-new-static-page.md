@@ -1,6 +1,6 @@
 ---
 layout: page
-published: false
+published: true
 title: New static page
 permalink: /new
 ---
