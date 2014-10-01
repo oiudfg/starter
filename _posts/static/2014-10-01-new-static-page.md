@@ -2,6 +2,7 @@
 layout: page
 published: false
 title: New static page
+permalink: /new
 ---
 
 ## A New Post
